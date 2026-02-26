@@ -10,7 +10,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ **Data Preparation, Modeling & Exploratory Data Analysis (Python):** Cleaned and transformed the raw dataset for analysis.
 
-✅ **Data Analysis (SQL):** Simulated business transactions and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+✅ **Data Analysis (SQL):** Simulated business transactions and ran queries to extract insights on customer segments, loyalty, and purchase drivers.
 
 ✅ **Visualization & Insights (Power BI):** Built an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
@@ -18,41 +18,36 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ---
 
-## 🛠️ How to Use This Project
+## 🗂️ Project Structure
+
+| File | Description |
+|------|-------------|
+| `Customer_Shopping_Behavior_Analysis.ipynb` | Python notebook covering data import, exploration, cleaning, and loading into SQL |
+| `customer_behavior_sql_queries.sql` | SQL queries answering key business questions on customer segments, loyalty, and purchase behavior |
+| `customer_behavior_dashboard.pbix` | Power BI dashboard with interactive visualizations and insights |
+
+## 🚀 Getting Started
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/VishwanathMalli/customer-trends-data-analysis-SQL-Python-PowerBI.git
    cd customer-trends-data-analysis-SQL-Python-PowerBI
    ```
+2. Open the **Python notebook** to explore data preparation and EDA
+3. Run the **SQL queries** to explore business insights
+4. Open the **`.pbix` file** in Power BI Desktop to explore the dashboard
 
-2. **Open `Customer_Shopping_Behavior_Analysis.ipynb` notebook**
+---
 
-   This file contains:
-   - Data Import
-   - Data Exploration
-   - Data Cleaning
-   - Connection to SQL Database
+## 📊 Power BI Dashboard
 
-3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
-   - Create a database in SQL
-   - Run Python code to load data into SQL database
-   - Open `customer_behavior_sql_queries.sql`
-   - Answer Business Questions using SQL Queries
-
-4. **Connect the SQL Database to Power BI**
-   - Open `customer_behavior_dashboard.pbix`
-   - Create interactive dashboard in Power BI
-
-5. **Create Project Report and Presentation**
-   - Create project report
-   - Build presentation deck using Gamma AI
+![Customer Behavior Dashboard](dashboard.png)
 
 ---
 
 ## 👨‍💻 About Me
 
-Hey, I'm **Vishwanath Malli**, The Data Analyst passionate about turning raw data into meaningful business insights.
+Hey, I'm **Vishwanath Malli**, an aspiring Data Analyst passionate about turning raw data into meaningful business insights.
 
 I enjoy working with Python, SQL, and Power BI to solve real-world data problems and build projects that demonstrate end-to-end analytical thinking.
 
