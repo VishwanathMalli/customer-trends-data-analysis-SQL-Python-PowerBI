@@ -4,6 +4,13 @@ This project represents a complete, industry-standard, end-to-end data analytics
 
 ---
 
+
+## 📊 Power BI Dashboard
+
+![Customer Behavior Dashboard](dashboard.png)
+
+---
+
 ## 📌 Project Overview
 
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
@@ -36,12 +43,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 2. Open the **Python notebook** to explore data preparation and EDA
 3. Run the **SQL queries** to explore business insights
 4. Open the **`.pbix` file** in Power BI Desktop to explore the dashboard
-
----
-
-## 📊 Power BI Dashboard
-
-![Customer Behavior Dashboard](dashboard.png)
 
 ---
 
