@@ -29,6 +29,12 @@ PDF → detailed report
 
 ---
 
+## 📊 Dashboard Preview
+
+![Customer Behavior Dashboard](dashboard.png)
+
+---
+
 ## 📊 Dataset Summary
 
 - **Rows:** 3,900 transactions  
@@ -84,12 +90,6 @@ Strong loyal base, opportunity to convert returning → loyal.
 - Senior: $55,763
 
 Young Adults are highest revenue segment.
-
----
-
-## 📊 Dashboard Preview
-
-![Customer Behavior Dashboard](dashboard.png)
 
 ---
 
